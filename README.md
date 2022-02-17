@@ -1,1 +1,3 @@
-This is Kyle's first git project!
+# git_test
+My first Github repo!
+Hello Odin!
